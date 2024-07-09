@@ -1,0 +1,25 @@
+h1{
+    text-shadow: 3px 3px 3px palegreen ;
+    margin-left: 350px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    margin-left: 500px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border:5px solid black;
+}
+button{
+    margin-left: 570px;
+    color: black;
+    height: 50px;
+    width: 150px;
+    background: goldenrod;
+    font-size: large;
+}
+body{
+    background: palevioletred;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
